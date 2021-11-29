@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @CristopherBermudez
+- 👀 I’m interested in Php and Wordpress Plugins
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Php and Plugins
+- 📫 Contact Me on cris@knowmyfaith.net
+- Im a Web developer and Plugin Builder for Keen On Media in New Zealand
